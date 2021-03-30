@@ -1,1 +1,1 @@
-# 525-group23
+Repository for Group 23 of DSCI-525
