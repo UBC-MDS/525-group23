@@ -23,7 +23,7 @@ R
 
 ## Contributors
 
-The list of team members and with their GitHub usernames:
+The list of team members and their GitHub usernames:
 
 | Full name                | Github username |
 |---------------------|-----------------|
