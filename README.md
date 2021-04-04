@@ -25,7 +25,7 @@ R
 
 The list of team members and their GitHub usernames:
 
-| Full name                | Github username |
+| Full name                | GitHub username |
 |---------------------|-----------------|
 | Fatime Selimi | @fatse      |
 |  Jingjing Zhi   | @Jingjing9756    |
